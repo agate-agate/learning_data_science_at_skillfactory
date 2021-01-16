@@ -120,7 +120,7 @@ def game_core_v4(secret_number, show_path=False):
     limit_min = 1
     limit_max = 100
     attempt_count = 0
-    path = [] # Вот это нам может пригодится для отладки.
+    path = [] # Тут будут храниться все ПредположенныеЧисла.
     
     
     def declare(guess_number):
