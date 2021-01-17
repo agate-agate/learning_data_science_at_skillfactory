@@ -9,5 +9,5 @@
 Если для запуска проекта необходимы дополнительные инструменты - это будет
 указано в README.md расположенном в папке соответствующего проекта. 
 
-1. [Перейти к Проекту 1: "Github. Самый быстрый старт"](https://github.com/agate-agate/learning_data_science_at_skillfactory/tree/main/module_0)
+0. [Перейти к Проекту 0: "Github. Самый быстрый старт"](https://github.com/agate-agate/learning_data_science_at_skillfactory/tree/main/module_0)
 
