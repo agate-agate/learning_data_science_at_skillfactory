@@ -11,3 +11,5 @@
 
 0. [Перейти к Проекту 0: "Github. Самый быстрый старт"](https://github.com/agate-agate/learning_data_science_at_skillfactory/tree/main/module_0)
 
+0. [Перейти к Проекту 1: "Кто хочет стать миллионером кинопроката?"](https://github.com/agate-agate/learning_data_science_at_skillfactory/tree/main/module_1)
+
